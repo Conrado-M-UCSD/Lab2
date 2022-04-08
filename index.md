@@ -18,3 +18,17 @@ Lists with disorder:
 - Distinct item here 
 
 ---
+
+>Here is a neat blockquote section: 
+
+  ` You can even add sections of code `
+  
+   ``'
+   Or even larger 
+   blocks of multi-line
+   code as well
+   ``'
+   
+    [Link to course site](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/home) 
+    
+    

@@ -32,6 +32,8 @@ blocks of multi line
 code as well
 ```
 
+ ![Image](https://i.huffpost.com/gen/147836/thumbs/r-UCSD-large570.jpg) 
+
 ## Changes here were made in VSCode via offline editing the cloned repo. 
    
 [Link to course site](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/home) 

@@ -32,6 +32,6 @@ blocks of multi line
 code as well
 ```
    
-    [Link to course site](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/home) 
+[Link to course site](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/home) 
     
-    
+  
